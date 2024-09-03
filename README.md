@@ -14,8 +14,5 @@ Learning: C++, Python, SQL, Data Structures
 Looking_for: Open-Source projects to learn and contribute
 loves to: Read Fiction, Write, play Badminton
 ```
-<br>
-<br>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/MeeZee?theme=nord&font=Roboto&border=0)
+ 
 
