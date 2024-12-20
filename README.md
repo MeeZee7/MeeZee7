@@ -7,8 +7,8 @@
 MeeZee7@github
 -------------------------------------------------------------------
 Name: Meenal
-Education: Freshman (Computer Science and Business Systems)
-Location: Maharashtra, Bharat(India)
+Education: sophomore (Computer Science and Business Systems)
+Location: Maharashtra, India
 Interests: Core Programming and Data Science
 Learning: C++, Python, SQL, Data Structures
 Looking_for: Open-Source projects to learn and contribute
